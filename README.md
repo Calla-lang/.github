@@ -33,7 +33,7 @@ Calla is an innovative tool designed to accelerate the software development life
 - Third-party Services: Configuration for interacting with external services like AWS.
 
 ## Development Plan
-The development of Calla is broken down into well-defined epics and sub-tasks, which can be viewed in the detailed development plan.
+The development of Calla is broken down into well-defined epics and sub-tasks, which can be viewed in the detailed DEVELOPMENT_PLAN.md
 
 ## Documentation
 Thorough documentation, tutorials, and examples will be provided to ensure easy adoption and extendability of Calla.
